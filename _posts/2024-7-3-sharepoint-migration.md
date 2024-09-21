@@ -1,6 +1,8 @@
 ---
 layout: post
 title: SharePoint Migration 
+tags: [ API , Node.js , Javascript ]
+categories: [Software Development, Long Posts]
 ---
 
 About:
