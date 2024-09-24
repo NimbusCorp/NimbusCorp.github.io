@@ -1,9 +1,10 @@
 ---
 layout: post
 title: SharePoint Migration for an Ontario Hospital
-date: 2024-07-01
+date: 2024-07-01 00:00:00
 tags: [ SharePoint, Migration, Governance ]
 categories: [Data, Technology]
+published: true
 ---
 
 About:
