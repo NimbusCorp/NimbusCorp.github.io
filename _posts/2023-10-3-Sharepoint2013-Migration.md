@@ -1,7 +1,7 @@
 ---
 layout: post
-title: You're up and running!
-published: false
+title: Sharepoint 2013 to SharePoint Online migration
+published: true
 ---
 
 Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
