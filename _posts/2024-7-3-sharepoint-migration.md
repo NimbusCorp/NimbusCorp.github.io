@@ -1,20 +1,24 @@
 ---
 layout: post
-title: SharePoint Migration for an Ontario Hospital
+title: SharePoint Migration for Hospital
 date: 2024-07-01 00:00:00
 tags: [ SharePoint, Migration, Governance ]
 categories: [Data, Technology]
-published: true
+published: false
 ---
 
 ## Background:
-A large Ontario hospital in Canada required their on-prem SharePoint 2016 environment to be migrated over to SharePoint Online. 
+Hospital in **Ontario, Canada** required their on-prem SharePoint 2016 environment to be migrated over to SharePoint Online over short time frame. The Hospital elected to migrate as is to SharePoint online with classic infrastructure along with highly customized Master pages and various legacy solutions. 
 
 ## Challenges:
-- Large site collections and nested subsites infrastructure on SharePoint 2016
-- Legacy solutions
-- Outdated and un-optimized Master Page
-- Legacy CSS styling
-- Short timeline to get assess, plan and migrate 
+- Large site collections and with massive nested subsites infrastructure on SharePoint server 2016
+- Large Lists and libraries with large views.
+- Legacy SharePoint solutions that required modernization
+- Outdated and un-optimized custom Master Pages across three divisions
+- Old and inefficient CSS
+- Short timeline to achieve assessment, plan and migrate to SharePoint Online.
+- Thousands of orphaned and detached identity objects.
 
 ## Solutions:
+Nimbus Corp assisted a partner MSP in delivering a successful migration within steep timelines. Our PS team provided an assessment on the hospitals current SP 2016 infrastructure and helped design the entire migration workflow. The team used Sharegate as our migration tool. 
+
