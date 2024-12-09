@@ -20,5 +20,8 @@ Hospital in **Ontario, Canada** required their on-prem SharePoint 2016 environme
 - Thousands of orphaned and detached identity objects.
 
 ## Solutions:
-Nimbus Corp assisted a partner MSP in delivering a successful migration within steep timelines. Our PS team provided an assessment on the hospitals current SP 2016 infrastructure and helped design the entire migration workflow. The team used Sharegate as our migration tool. 
+Nimbus Corp assisted in delivering a successful migration within short timeframe. Our PS team provided an assessment on the hospitals current SharePOint 2016 infrastructure and helped design the entire migration. 
 
+They Key elements that Nimbus Corp assisted with:
+- Assessment on current SharePoint on-prem infrastructure using SharePoint Migration Assessment Tool by Microsoft
+- 
